@@ -1,0 +1,24 @@
+:root {
+	/** 
+		Colors
+  	*/
+	--clr-neutral-100: hsl(0 0% 100%);
+
+
+
+	/*
+		Fonts 
+	*/
+	--fw-400: 500;
+	--fw-700: 700;
+	--fw-900: 900;
+
+	--ff-base: sans-serif;
+
+	/* 
+		Border Radius 
+	*/
+	--br-1: 0.5rem;
+	--br-2: 1rem;
+	--br-full: 100vh;
+}

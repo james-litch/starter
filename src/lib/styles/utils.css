@@ -1,0 +1,17 @@
+.grid-flow {
+    display: grid;
+    gap: 1rem;
+}
+
+.flex-row {
+    display: flex;
+    gap: 1rem;
+}
+
+.push-right {
+    margin-left: auto;
+}
+
+.push-left {
+    margin-right: auto;
+}
